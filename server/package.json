@@ -1,0 +1,18 @@
+{
+    "name": "NodeJS-midterm66-server",
+    "version": "1.0.0",
+    "description": "64311966",
+    "main": "src/app.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "songwut",
+    "license": "ISC",
+    "dependencies": {
+      "body-parser": "^1.20.2",
+      "express": "^4.18.2",
+      "sequelize": "^6.32.1",
+      "sqlite3": "^5.1.6"
+    }
+  }
+  
